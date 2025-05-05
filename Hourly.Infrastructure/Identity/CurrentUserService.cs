@@ -51,7 +51,7 @@ namespace Hourly.Infrastructure.Identity
 
         public bool CanAccessOrganization(Guid organizationId)
         {
-            if (!IsAuthenticated || !UserId.HasValue || !OrganizationId.HasValue)
+            if (!IsAuthenticated || !OrganizationId.HasValue)
             {
                 return false;
             }

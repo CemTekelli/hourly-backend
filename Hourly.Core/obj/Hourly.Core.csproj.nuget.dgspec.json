@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\backend\\Hourly.Core\\Hourly.Core.csproj": {}
+    "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\hourly-backend\\Hourly.Core\\Hourly.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\backend\\Hourly.Core\\Hourly.Core.csproj": {
+    "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\hourly-backend\\Hourly.Core\\Hourly.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\backend\\Hourly.Core\\Hourly.Core.csproj",
+        "projectUniqueName": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\hourly-backend\\Hourly.Core\\Hourly.Core.csproj",
         "projectName": "Hourly.Core",
-        "projectPath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\backend\\Hourly.Core\\Hourly.Core.csproj",
+        "projectPath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\hourly-backend\\Hourly.Core\\Hourly.Core.csproj",
         "packagesPath": "C:\\Users\\CemTekelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\backend\\Hourly.Core\\obj\\",
+        "outputPath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\hourly-backend\\Hourly.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

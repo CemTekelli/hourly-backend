@@ -1,0 +1,7 @@
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.API\obj\Debug\net9.0\Hourly.API.csproj.AssemblyReference.cache
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.API\obj\Debug\net9.0\Hourly.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.API\obj\Debug\net9.0\Hourly.API.AssemblyInfoInputs.cache
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.API\obj\Debug\net9.0\Hourly.API.AssemblyInfo.cs
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.API\obj\Debug\net9.0\Hourly.API.csproj.CoreCompileInputs.cache
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.API\obj\Debug\net9.0\Hourly.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.API\obj\Debug\net9.0\Hourly.API.sourcelink.json

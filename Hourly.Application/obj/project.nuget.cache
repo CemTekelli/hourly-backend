@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UmxhRwkm/0c=",
+  "dgSpecHash": "QwhQeyCinh8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\backend\\Hourly.Application\\Hourly.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\hourly-backend\\Hourly.Application\\Hourly.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CemTekelli\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\CemTekelli\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\CemTekelli\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

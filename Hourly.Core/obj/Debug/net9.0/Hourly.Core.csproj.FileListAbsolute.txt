@@ -1,0 +1,6 @@
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.Core\obj\Debug\net9.0\Hourly.Core.csproj.AssemblyReference.cache
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.Core\obj\Debug\net9.0\Hourly.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.Core\obj\Debug\net9.0\Hourly.Core.AssemblyInfoInputs.cache
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.Core\obj\Debug\net9.0\Hourly.Core.AssemblyInfo.cs
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.Core\obj\Debug\net9.0\Hourly.Core.csproj.CoreCompileInputs.cache
+C:\Users\CemTekelli\OneDrive - UP\Bureau\perso\projets\hourly\hourly-backend\Hourly.Core\obj\Debug\net9.0\Hourly.Core.sourcelink.json

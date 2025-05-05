@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Zbw/2ziqSQ=",
+  "dgSpecHash": "oU5xXMMbrOU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\backend\\Hourly.Tests\\Hourly.Tests.csproj",
+  "projectFilePath": "C:\\Users\\CemTekelli\\OneDrive - UP\\Bureau\\perso\\projets\\hourly\\hourly-backend\\Hourly.Tests\\Hourly.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CemTekelli\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\CemTekelli\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

@@ -1,7 +1,12 @@
-public class UserRole
+using System;
+
+namespace Hourly.Core.Entities.Auth
 {
-    public Guid UserId { get; set; }
-    public User User { get; set; }
-    public Guid RoleId { get; set; }
-    public Role Role { get; set; }
+    public class UserRole
+    {
+        public Guid UserId { get; set; }
+        public virtual User User { get; set; }
+        public Guid RoleId { get; set; }
+        public virtual Role Role { get; set; }
+    }
 }

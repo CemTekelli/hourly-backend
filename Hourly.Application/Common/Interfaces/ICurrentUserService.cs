@@ -1,4 +1,3 @@
-// Hourly.Application/Common/Interfaces/ICurrentUserService.cs
 using System;
 
 namespace Hourly.Application.Common.Interfaces
